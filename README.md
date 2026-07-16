@@ -132,8 +132,6 @@ Synthetic Retail Sales Dataset used for learning and portfolio development.
 
 **Nishan Harsha Maduranga**
 
-LinkedIn:
-(Add LinkedIn URL)
 
 GitHub:
 https://github.com/nishanhm86
