@@ -1,8 +1,7 @@
 # Retail Sales Analytics Dashboard
 
-Images/Executive Dashboard.jpg
-
-# Retail Sales Analytics Dashboard
+[Images/Executive Dashboard.jpg
+](https://github.com/nishanhm86/Retail_Sales_Analytics_Dashboard/blob/main/Images/Executive%20Dashboard.jpg)
 
 ## Project Overview
 
