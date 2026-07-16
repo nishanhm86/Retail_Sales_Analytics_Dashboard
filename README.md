@@ -1,7 +1,8 @@
 # Retail Sales Analytics Dashboard
 
-[Images/Executive Dashboard.jpg
-](https://github.com/nishanhm86/Retail_Sales_Analytics_Dashboard/blob/main/Images/Executive%20Dashboard.jpg)
+An end-to-end Power BI Business Intelligence dashboard that analyzes retail sales, customer behavior, product performance, and regional profitability through interactive visualizations and advanced DAX calculations.
+
+![Executive Dashboard](Images/Executive_Dashboard.jpg)
 
 ## Project Overview
 
@@ -97,32 +98,32 @@ The objective of this project is to help business managers monitor sales perform
 - Microsoft Power BI Desktop
 - Power Query
 - DAX
-- Microsoft Excel / CSV
-
+- Microsoft Excel
+- Data Modeling
+- Git & GitHub
 ---
 
 ## Dashboard Preview
 
 ### Executive Dashboard
 
-(Add Screenshot Here)
+![Executive Dashboard](Images/Executive_Dashboard.jpg)
 
 ### Product Performance
 
-(Add Screenshot Here)
+![Product Performance](Images/Product_Performance.jpg)
 
 ### Customer Analysis
 
-(Add Screenshot Here)
+![Customer Analysis](Images/Customer_Analysis.jpg)
 
 ### Geographic Analysis
 
-(Add Screenshot Here)
+![Geographic Analysis](Images/Geographic_Analysis.jpg)
 
 ### Executive Summary
 
-(Add Screenshot Here)
-
+![Executive Summary](Images/Executive_Summary.jpg) 
 ---
 
 ## Dataset
@@ -131,13 +132,27 @@ Synthetic Retail Sales Dataset used for learning and portfolio development.
 
 ---
 
+## Project Summary
+
+- Dashboard Pages: 5
+- Dataset Size: 50,000 Orders
+- KPIs: Revenue, Profit, Margin, Orders, Customers
+- DAX Measures: 30+
+- Interactive Features:
+  - Drill-through
+  - Tooltips
+  - Bookmarks
+  - Dynamic Titles
+  - Sync Slicers
+  - Conditional Formatting
+
 ## Author
 
 **Nishan Harsha Maduranga**
 
 
 GitHub:
-https://github.com/nishanhm86
+[https://github.com/nishanhm86](https://github.com/nishanhm86)
 
 ---
 
@@ -146,3 +161,51 @@ https://github.com/nishanhm86
 Completed
 
 This dashboard demonstrates practical Business Intelligence techniques including data modeling, DAX, interactive reporting, bookmarks, drill-through, tooltips, and dashboard design using Microsoft Power BI.
+
+## Future Improvements
+
+- Add Top 10 Customers analysis
+- Add Highest Revenue Month KPI
+- Add Lowest Revenue Month KPI
+- Add Customer Lifetime Value analysis
+- Publish dashboard to Power BI Service
+
+## DAX Concepts Used
+
+### Aggregation
+- SUM()
+- AVERAGE()
+- COUNT()
+- DISTINCTCOUNT()
+
+### Filter Context
+- CALCULATE()
+- FILTER()
+- ALLSELECTED()
+- ALLEXCEPT()
+
+### Time Intelligence
+- TOTALYTD()
+- SAMEPERIODLASTYEAR()
+
+### Logical Functions
+- IF()
+
+### Mathematical Functions
+- DIVIDE()
+- MAX()
+- MIN()
+
+### Text Functions
+- FORMAT()
+
+### Dynamic Reporting
+- SELECTEDVALUE()
+
+### Variables
+- VAR
+- RETURN
+
+## License
+
+This project is licensed under the MIT License.
