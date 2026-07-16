@@ -1,6 +1,6 @@
 # Retail Sales Analytics Dashboard
 
-![Dashboard Preview](Images/Executive Dashboard.jpg)
+Images/Executive Dashboard.jpg
 
 # Retail Sales Analytics Dashboard
 
