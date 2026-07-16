@@ -1,5 +1,9 @@
 # Retail Sales Analytics Dashboard
 
+![Dashboard Preview](Images/Executive_Dashboard.png)
+
+# Retail Sales Analytics Dashboard
+
 ## Project Overview
 
 This project is an end-to-end Business Intelligence solution developed using **Microsoft Power BI**. The dashboard transforms raw retail sales data into meaningful business insights through interactive visualizations, KPIs, drill-through pages, bookmarks, dynamic titles, and conditional formatting.
